@@ -13,3 +13,4 @@ public class MathCalculator {
         System.out.println("Результат расчета равен: " + sumAndMultiply(10, 20));
     }
 }
+//для коммита

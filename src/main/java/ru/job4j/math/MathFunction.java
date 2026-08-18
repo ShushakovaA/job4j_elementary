@@ -9,4 +9,4 @@ public class MathFunction {
         return first * second;
     }
 }
-//для коммита
+//для коммита.
