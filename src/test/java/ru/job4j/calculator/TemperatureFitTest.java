@@ -23,3 +23,4 @@ class TemperatureFitTest {
         assertThat(output).isEqualTo(expected, withPrecision(value));
     }
 }
+//для коммита
